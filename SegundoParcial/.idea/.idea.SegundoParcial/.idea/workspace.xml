@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03b8e1f6-ca05-4a2e-ab12-4640dcbc9b0f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Login.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Address.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Address.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Business.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Business.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Order.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Order.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Product.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Product.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EditUser.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EditUser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Password.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Password.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/User.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/User.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Administrator.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Administrator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WelcomeAdmin.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WelcomeAdmin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WelcomeUser.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WelcomeUser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EditOrder.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Form1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EditOrder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConnectionDB.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Login.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Login}.Designer.cs" />
+        <option value="$PROJECT_DIR$/Password.Designer.cs" />
+        <option value="$PROJECT_DIR$/Product.Designer.cs" />
+        <option value="$PROJECT_DIR$/Order.Designer.cs" />
+        <option value="$PROJECT_DIR$/Business.Designer.cs" />
+        <option value="$PROJECT_DIR$/Address.Designer.cs" />
+        <option value="$PROJECT_DIR$/ConnectionDB.cs" />
+        <option value="$PROJECT_DIR$/Login.Designer.cs" />
+        <option value="$PROJECT_DIR$/EditOrder.Designer.cs" />
+        <option value="$PROJECT_DIR$/Administrator.Designer.cs" />
+        <option value="$PROJECT_DIR$/Product.cs" />
+        <option value="$PROJECT_DIR$/Business.cs" />
+        <option value="$PROJECT_DIR$/EditUser.Designer.cs" />
+        <option value="$PROJECT_DIR$/Order.cs" />
+        <option value="$PROJECT_DIR$/WelcomeUser.Designer.cs" />
+        <option value="$PROJECT_DIR$/WelcomeAdmin.Designer.cs" />
+        <option value="$PROJECT_DIR$/User.Designer.cs" />
+        <option value="$PROJECT_DIR$/Administrator.cs" />
+        <option value="$PROJECT_DIR$/Login.cs" />
+        <option value="$PROJECT_DIR$/Password.cs" />
+        <option value="$PROJECT_DIR$/EditUser.cs" />
+        <option value="$PROJECT_DIR$/EditOrder.cs" />
+        <option value="$PROJECT_DIR$/User.cs" />
+        <option value="$PROJECT_DIR$/Address.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cWYHjfgcE0xUA4Hrq0XseLXw81" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SegundoParcial" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SegundoParcial.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03b8e1f6-ca05-4a2e-ab12-4640dcbc9b0f" name="Default Changelist" comment="" />
+      <created>1590645733498</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590645733498</updated>
+      <workItem from="1590645740691" duration="105000" />
+      <workItem from="1590674254370" duration="2651000" />
+      <workItem from="1590677101539" duration="385000" />
+      <workItem from="1590677510802" duration="1532000" />
+      <workItem from="1590679383608" duration="711000" />
+      <workItem from="1590680116186" duration="15874000" />
+      <workItem from="1590700167269" duration="818000" />
+      <workItem from="1590701044430" duration="843000" />
+      <workItem from="1590702051616" duration="6825000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state x="392" y="88" key="#SQL_Dialects" timestamp="1590694521149">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="88" key="#SQL_Dialects/0.0.1600.860@0.0.1600.860" timestamp="1590694521149" />
+    <state x="392" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590694553187">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1590694553187" />
+    <state x="664" y="376" key="Assembly removing confirmation dialog" timestamp="1590678352170">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="664" y="376" key="Assembly removing confirmation dialog/0.0.1600.860@0.0.1600.860" timestamp="1590678352170" />
+    <state width="1557" height="213" key="GridCell.Tab.0.bottom" timestamp="1590709227163">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="213" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1590709227163" />
+    <state width="1557" height="213" key="GridCell.Tab.0.center" timestamp="1590709227162">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="213" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1590709227162" />
+    <state width="1557" height="213" key="GridCell.Tab.0.left" timestamp="1590709227162">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="213" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1590709227162" />
+    <state width="1557" height="213" key="GridCell.Tab.0.right" timestamp="1590709227162">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="213" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1590709227162" />
+    <state x="579" y="296" key="ToolboxManager" timestamp="1590678358805">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="579" y="296" key="ToolboxManager/0.0.1600.860@0.0.1600.860" timestamp="1590678358805" />
+  </component>
+</project>
